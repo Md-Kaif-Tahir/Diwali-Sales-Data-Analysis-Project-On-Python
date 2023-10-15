@@ -1,4 +1,5 @@
-![banner](Assets/Banner.jpg)
+
+![suchandra-roy-chowdhury-cM8X2DDvnGE-unsplash](https://github.com/Md-Kaif-Tahir/Diwali-Sales-Data-Analysis-Project-On-Python/assets/110182266/33701a8c-4fff-4e7e-ad65-85d90df6ff2a)
 
 # Diwali-Sales-Data-Analysis-Project-On-Python
 ***A company seeks an exploratory analysis of their Diwali sales data to boost revenue and customer experience. The analysis covers sales by region, product categories, and customer behaviors, aiming to identify trends and opportunities. The goal is to provide actionable recommendations for strategy refinement, enhanced engagement, and revenue growth.***
